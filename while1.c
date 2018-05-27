@@ -15,6 +15,7 @@ while (hr>40)
   sal=sal+(hr*12);
   /* code */
 }
+//Print out total amount
 printf("total amnt=%d\n",sal );
 
   return 0;
